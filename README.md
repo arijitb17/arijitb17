@@ -1,8 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Arijit+Banik;Full-Stack+Developer+%7C+DevOps+Enthusiast+%7C+Blockchain+Learner;Welcome+to+my+tech+space!" alt="Typing SVG" style="background-image: url('https://i.imgur.com/z9dYH2L.gif'); background-size: cover;" />
-</p>
+# 💫 Hi 👋, I'm Arijit Banik
+A passionate **Full-Stack Developer, DevOps Enthusiast, and Blockchain Learner** from India 🇮🇳
 
+📩 Email: arijitb017@gmail.com<br>
+Open to collaborations, innovative projects, or just a good tech conversation — let’s build something awesome together! 🚀✨
 
+###
+
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNudXB6ZWhmMTJ3eGdjdXE1NGprd3ZocWt5eDc4ZW13OHZmYXphaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ### 👨‍💻 About Me
 
@@ -26,11 +30,6 @@
 </div>
 
 
-
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNudXB6ZWhmMTJ3eGdjdXE1NGprd3ZocWt5eDc4ZW13OHZmYXphaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
 ###
 
 # 💻 Tech Stack:
@@ -51,11 +50,9 @@
 </div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arijitb17/arijitb17/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arijitb17/arijitb17/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arijitb17/arijitb17/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
