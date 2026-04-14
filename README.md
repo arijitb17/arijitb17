@@ -14,7 +14,6 @@ A **Full-Stack Developer** from India 🇮🇳, currently pursuing IT undergradu
 - 🐳 Use **Docker** and **Kubernetes** for containerization and deployment.
 - 🗄️ Work with **MongoDB** and **PostgreSQL** depending on the project's needs.
 - ⚛️ Build frontends with **React** and **Next.js**.
-- 🔗 Currently exploring **Web3 and blockchain** — still learning the ropes.
 - 🛠️ Enjoy solving real problems and building things that actually work.
 
 ---
@@ -49,15 +48,6 @@ A **Full-Stack Developer** from India 🇮🇳, currently pursuing IT undergradu
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arijitb17&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijitb17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
-</div>
 
 ---
 
