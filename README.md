@@ -1,67 +1,90 @@
 # Hi, I'm Arijit Banik 👋
 
-A **Full-Stack Developer** from India 🇮🇳, currently pursuing IT undergraduate studies.
+Backend Software Engineer passionate about building scalable microservices, distributed systems, and cloud-native applications using **Java, Spring Boot, and modern backend technologies**.
 
-📩 arijitb017@gmail.com — open to collaborations and interesting projects.
+🎓 B.Tech in Information Technology, Gauhati University (2026)
 
----
+📍 Guwahati, India
 
-### 👨‍💻 About Me
+📩 arijitb017@gmail.com
 
-- 💻 IT undergraduate with hands-on experience building full-stack applications.
-- 🌐 Comfortable across the stack — from designing UIs to wiring up backends and databases.
-- 🐍 Code primarily in **Python**, **JavaScript/TypeScript**, and **Java**.
-- 🐳 Use **Docker** and **Kubernetes** for containerization and deployment.
-- 🗄️ Work with **MongoDB** and **PostgreSQL** depending on the project's needs.
-- ⚛️ Build frontends with **React** and **Next.js**.
-- 🛠️ Enjoy solving real problems and building things that actually work.
+🌐 Portfolio: https://arijitbanik.in
 
 ---
 
-### 💻 Tech Stack
+## 👨‍💻 About Me
 
-**Languages**
+- 💻 Backend-focused software engineer with experience building production-ready applications.
+- ☕ Building scalable microservices using **Java, Spring Boot, Spring Security, PostgreSQL, Redis, and RabbitMQ**.
+- 🐍 Experienced with **Python (FastAPI)** for backend services and REST APIs.
+- 🐳 Deploy applications using **Docker, Kubernetes, GitHub Actions, and AWS**.
+- 🏗️ Interested in distributed systems, system design, event-driven architectures, and backend performance.
+- 🚀 Currently building **Arceus**, a cloud-native Spring Boot microservices platform.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+---
+
+## 💻 Tech Stack
+
+### Languages
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Databases**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ---
 
-### 🌐 Socials
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+### Databases & Messaging
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+- **Arceus Platform** — Cloud-native Spring Boot microservices platform.
+- **Facidance** — AI-powered attendance platform with RBAC, JWT authentication, and facial recognition.
+- **Aabhar (HDFC Internship)** — Employee recognition platform based on microservices architecture.
+- **Bikers Studio** — Production e-commerce platform with backend services and CI/CD.
+
+---
+
+## 🌐 Connect with Me
 
 <div align="left">
-  <a href="https://www.instagram.com/arijit_banik17/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:arijitb017@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
   <a href="https://www.linkedin.com/in/arijit-banik-485610246" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:arijitb017@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://arijitbanik.in">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </div>
-
