@@ -66,7 +66,7 @@ Backend Software Engineer passionate about building scalable microservices, dist
 
 ## 🚀 Featured Projects
 
-- **Arceus Platform** — Cloud-native Spring Boot microservices platform.
+- **Arceus Platform** — Spring Boot microservices platform.
 - **Facidance** — AI-powered attendance platform with RBAC, JWT authentication, and facial recognition.
 - **Aabhar (HDFC Internship)** — Employee recognition platform based on microservices architecture.
 - **Bikers Studio** — Production e-commerce platform with backend services and CI/CD.
