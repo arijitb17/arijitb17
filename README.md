@@ -8,7 +8,7 @@ Backend Software Engineer passionate about building scalable microservices, dist
 
 📩 arijitb017@gmail.com
 
-🌐 Portfolio: https://arijitbanik.in
+🌐 Portfolio: https://arijitbanik.vercel.app
 
 ---
 
